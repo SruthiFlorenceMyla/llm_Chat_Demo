@@ -36,6 +36,3 @@ if prompt:
     st.session_state.chat.append({"role":"assistant","content":reply})
     st.rerun()
 
-
-
-
